@@ -8,6 +8,7 @@
 [![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun-doshi)](https://github.com/varun-doshi/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varun-doshi&repo=gameify)](https://github.com/varun-doshi/gameify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varun-doshi&repo=LGMVIP-DATA-SCIENCE)](https://github.com/varun-doshi/LGMVIP-DATA-SCIENCE)
 
 
 
