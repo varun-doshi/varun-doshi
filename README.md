@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3.0 development**
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- 👯 I’m looking to collaborate on **Blockchain** and  **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.varundoshi.live/](https://www.varundoshi.live/)
 
