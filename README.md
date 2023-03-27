@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Doshi</h1>
-<h3 align="center">I specialize in creating seamless Web expereinces. I'm also a NFT creator on Opensea (previously WazirX) and help projects launch their NFTs. I have expereince with 3D Animation and Modelling. Currently, I'm focused on integrating the Blockchain in my products. I'm an avid hackathon participant and enjoy building cool and innovative projects.</h3>
+<h3 align="center">I specialize in creating seamless Web expereinces. I'm also a NFT creator on WazirX MArketplace(previously) and help projects launch their NFTs. I have expereince with 3D Animation and Modelling. Currently, I'm focused on integrating the Blockchain in my products. I'm an avid hackathon participant and enjoy building cool and innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-doshi&label=Profile%20views&color=0e75b6&style=flat" alt="varun-doshi" /> </p>
 
