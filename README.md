@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain** and  **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.varundoshi.live/](https://www.varundoshi.live/)
+- 👨‍💻 My portfolio is available at [https://www.varundoshi.live/](https://www.varundoshi.live/)
 
 - 📝 I regularly write articles on [https://varunx.hashnode.dev/](https://varunx.hashnode.dev/)
 
