@@ -13,7 +13,7 @@
 
 - 👨‍💻 My portfolio is available at [https://www.varundoshi.live/](https://www.varundoshi.live/)
 
-- 📝 I regularly write articles on [https://varunx.hashnode.dev/](https://varunx.hashnode.dev/)
+- 📝 I write niche articles on [https://varunx.hashnode.dev/](https://varunx.hashnode.dev/)
 
 - 💬 Ask me about **NFTs, Development, Content Writing**
 
