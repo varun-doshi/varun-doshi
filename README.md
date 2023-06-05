@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/varunx10" target="blank"><img src="https://img.shields.io/twitter/follow/varunx10?logo=twitter&style=for-the-badge" alt="varunx10" /></a> </p>
 
-- 🌱 I’m currently learning **Web3.0 development**
-
 - 👯 I’m looking to collaborate on **Blockchain** and  **Full Stack Projects**
 
 - 👨‍💻 My portfolio is available at [https://www.varundoshi.live/](https://www.varundoshi.live/)
