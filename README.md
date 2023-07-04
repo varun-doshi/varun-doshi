@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Doshi</h1>
-<h3 align="center">Full Stack Blockchain Developer👨🏻‍💻 <br> NFT artist at Wazirx NFT Marketplace(previously) <br> Open to collaborating to exciting projects🤝</h3>
+<h3 align="center">Engineer @Metawork Labs <br> Full Stack Blockchain Developer👨🏻‍💻 <br> NFT artist at Wazirx NFT Marketplace(previously) <br> Open to collaborating to exciting projects🤝</h3>
 
 
 
