@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Doshi</h1>
-<h3 align="center"> Blockchain Engineer @Chainrisk <br> Full Stack Blockchain Developer👨🏻‍💻 <br> Rust Infra developer <br> Open to collaborating to exciting projects🤝</h3>
+<h3 align="center"> Blockchain Engineer @Chainrisk <br> Rust Infra developer <br> Open to collaborating on projects</h3>
 
 
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/varunx10" target="blank"><img src="https://img.shields.io/twitter/follow/varunx10?logo=twitter&style=for-the-badge" alt="varunx10" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Blockchain** and  **Backend Projects**
+- 👯 I’m looking to collaborate on **Blockchain** and  **Backend Projects** with a major focus on core infrastructure development
 
 - 👨‍💻 My portfolio is available at [https://www.varundoshi.live/](https://varun-doshi.vercel.app/)
 
 - 📝 I write niche articles on [https://varunx.hashnode.dev/](https://varunx.hashnode.dev/)
 
-- 💬 Ask me about **NFTs, Development, Content Writing**
+- 💬 Ask me about **Blockchain, Development, Rust**
 
 - 📫 How to reach me **doshivarun202@gmail.com**
 
@@ -23,7 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/varunx10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunx10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/varun-doshi-aaba38184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-doshi-aaba38184" height="30" width="40" /></a>
-<a href="https://instagram.com/_varunx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_varunx_" height="30" width="40" /></a>
 <a href="https://hashnode.com/@varunx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@varunx" height="30" width="40" /></a>
 <a href="https://medium.com/@varun-doshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@varun-doshi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vjacs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vjacs" height="30" width="40" /></a>
