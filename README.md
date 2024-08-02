@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Doshi</h1>
-<h3 align="center"> Blockchain Engineer @Chainrisk <br> Rust Infra developer <br> Open to collaborating on projects</h3>
+<h3 align="center">Lead Blockchain Engineer @Chainrisk Labs <br> Rust and Cryptography 💻<br></h3>
 
 
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/varunx10" target="blank"><img src="https://img.shields.io/twitter/follow/varunx10?logo=twitter&style=for-the-badge" alt="varunx10" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Blockchain** and  **Backend Projects** with a major focus on core infrastructure development
+- 👯 Open to collaborating on **Blockchain** and  **Backend Projects** with a major focus on Core Protocol Development and Applied Cryptgraphy.
 
-- 👨‍💻 My portfolio is available at [https://www.varundoshi.live/](https://varun-doshi.vercel.app/)
+- 👨‍💻 My portfolio is available at [varundoshi.live](https://varun-doshi.vercel.app/)
 
-- 📝 I write niche articles on [https://varunx.hashnode.dev/](https://varunx.hashnode.dev/)
+- 📝 I write [Blogs](https://medium.com/@varun-doshi)
 
-- 💬 Ask me about **Blockchain, Development, Rust**
+- 💬 Reach out if you want to talk about **Blockchain, Development, Rust, Cryptography**
 
 - 📫 How to reach me **doshivarun202@gmail.com**
 
