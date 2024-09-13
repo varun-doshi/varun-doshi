@@ -50,5 +50,6 @@
 -->
 
 
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-doshi&show_icons=true&theme=radical&include_all_commits=true&locale=en" alt="varun-doshi" /></p>
+-->
