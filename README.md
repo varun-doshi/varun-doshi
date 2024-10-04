@@ -2,11 +2,11 @@
 <h3 align="center">Lead Blockchain Engineer @Chainrisk Labs <br> Rust and Cryptography 💻<br></h3>
 
 
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-doshi&label=Profile%20views&color=0e75b6&style=flat" alt="varun-doshi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-doshi" alt="varun-doshi" /></a> </p>
-
+-->
 <p align="left"> <a href="https://twitter.com/varunx10" target="blank"><img src="https://img.shields.io/twitter/follow/varunx10?logo=twitter&style=for-the-badge" alt="varunx10" /></a> </p>
 
 - 👯 Open to collaborating on **Blockchain** and  **Backend Projects** with a major focus on Core Protocol Development and Applied Cryptgraphy.
