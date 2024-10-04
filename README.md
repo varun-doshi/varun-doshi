@@ -17,22 +17,15 @@
   
 - 📘 My [Gists](https://gist.github.com/varun-doshi)
 
-- 💬 Reach out if you want to talk about **Blockchain, Development, Rust, Cryptography**
+- 💬 I like to talk about **Blockchain, Development, Rust, Cryptography**
 
-- 📫 How to reach me **doshivarun202@gmail.com**
+- 📫 Reach me at: **doshivarun202@gmail.com**
 
 <h3>Published Packages</h3>
 
 - [rs-merkletree](https://crates.io/crates/rs-merkletree/0.1.0)
 
 - [gas-lookup](https://crates.io/crates/gas-lookup)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/varunx10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunx10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varun-doshi-aaba38184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-doshi-aaba38184" height="30" width="40" /></a>
-<a href="https://medium.com/@varun-doshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@varun-doshi" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages:</h3>
 
@@ -43,6 +36,13 @@
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMmlQ_FFVgmbbAGdi7MW4L1_KEY7MvyXExpw&s" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/23409167/225079105-8d0aa2ea-1db0-4905-a101-ef1d20e3d420.png" alt="nodejs" width="40" height="40"/> </a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/varunx10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunx10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varun-doshi-aaba38184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-doshi-aaba38184" height="30" width="40" /></a>
+<a href="https://medium.com/@varun-doshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@varun-doshi" height="30" width="40" /></a>
+</p>
 
 
 <!---
