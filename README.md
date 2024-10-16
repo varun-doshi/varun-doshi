@@ -9,7 +9,7 @@
 -->
 <p align="left"> <a href="https://twitter.com/varunx10" target="blank"><img src="https://img.shields.io/twitter/follow/varunx10?logo=twitter&style=for-the-badge" alt="varunx10" /></a> </p>
 
-- 👯 Open to collaborating on **Blockchain** and  **Backend Projects** with a major focus on Core Protocol Development and Applied Cryptgraphy.
+- 👯 Open to collaborating on **Blockchain** and  **Backend Projects** with a major focus on Core Protocol Development and Applied Cryptography.
 
 - 👨‍💻 My portfolio is available at [varundoshi.live](https://varun-doshi.vercel.app/)
 
