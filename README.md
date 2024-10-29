@@ -11,8 +11,9 @@
 
 - 👯 Open to collaborating on **Blockchain** and  **Backend Projects** with a major focus on Core Protocol Development and Applied Cryptography.
 
+<!---
 - 👨‍💻 My portfolio is available at [varundoshi.live](https://varun-doshi.vercel.app/)
-
+-->
 - 📝 I write [Blogs](https://medium.com/@varun-doshi)
   
 - 📘 My [Gists](https://gist.github.com/varun-doshi)
