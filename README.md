@@ -9,17 +9,15 @@
 -->
 <p align="left"> <a href="https://twitter.com/varunx10" target="blank"><img src="https://img.shields.io/twitter/follow/varunx10?logo=twitter&style=for-the-badge" alt="varunx10" /></a> </p>
 
-- 👯 Open to collaborating on **Blockchain** and  **Backend Projects** with a major focus on Core Protocol Development and Applied Cryptography.
+- 💻 **Core Protocol Development** + **Applied Cryptography**.
 
 <!---
 - 👨‍💻 My portfolio is available at [varundoshi.live](https://varun-doshi.vercel.app/)
 -->
-- 📝 I write [Blogs](https://medium.com/@varun-doshi)
-  
-- 📘 My [Gists](https://gist.github.com/varun-doshi)
-
+- 📝 My [Blogs](https://medium.com/@varun-doshi) and [Gists](https://gist.github.com/varun-doshi)
+<!--
 - 💬 I like to talk about **Blockchain, Development, Rust, Cryptography**
-
+-->
 - 📫 Reach me at: **doshivarun202@gmail.com**
 
 <h3>Published Packages</h3>
