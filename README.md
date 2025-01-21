@@ -14,7 +14,7 @@
 <!---
 - 👨‍💻 My portfolio is available at [varundoshi.live](https://varun-doshi.vercel.app/)
 -->
-- 📝 My [Blogs](https://medium.com/@varun-doshi) and [Gists](https://gist.github.com/varun-doshi)
+- 📝 [Blogs](https://medium.com/@varun-doshi) and [Gists](https://gist.github.com/varun-doshi)
 <!--
 - 💬 I like to talk about **Blockchain, Development, Rust, Cryptography**
 -->
@@ -26,7 +26,7 @@
 
 - [gas-lookup](https://crates.io/crates/gas-lookup)
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">I like to work with:</h3>
 
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.cairo-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" alt="Cairo" width="40" height="40"/> </a>
@@ -40,8 +40,7 @@
 <p align="left">
 <a href="https://twitter.com/varunx10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunx10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/varun-doshi-aaba38184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-doshi-aaba38184" height="30" width="40" /></a>
-<a href="https://medium.com/@varun-doshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@varun-doshi" height="30" width="40" /></a>
-</p>
+
 
 
 <!---
