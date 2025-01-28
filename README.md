@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-doshi&label=Profile%20views&color=0e75b6&style=flat" alt="varun-doshi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-doshi" alt="varun-doshi" /></a> </p>
--->
-<p align="left"> <a href="https://twitter.com/varunx10" target="blank"><img src="https://img.shields.io/twitter/follow/varunx10?logo=twitter&style=for-the-badge" alt="varunx10" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/varunx10" target="blank"><img src="https://img.shields.io/twitter/follow/varunx10?logo=twitter&style=for-the-badge" alt="varunx10" /></a> </p>
+-->
 - 💻 **Core Protocol Development** + **Applied Cryptography**.
 
 <!---
@@ -26,7 +26,7 @@
 
 - [gas-lookup](https://crates.io/crates/gas-lookup)
 
-<h3 align="left">I like to work with:</h3>
+<h3 align="left">I work with:</h3>
 
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.cairo-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" alt="Cairo" width="40" height="40"/> </a>
