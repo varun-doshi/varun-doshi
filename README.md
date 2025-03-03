@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Doshi</h1>
-<h3 align="center">Lead Blockchain Engineer @Chainrisk Labs <br> Rust and Cryptography 💻<br></h3>
+<h3 align="center">Lead Blockchain Engineer @Chainrisk Labs <br> Rust and Cryptography 💻</h3>
+<h3 align="center">I run simulations!<br></h3>
 
 
 <!--
