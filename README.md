@@ -15,7 +15,7 @@
 <!---
 - 👨‍💻 My portfolio is available at [varundoshi.live](https://varun-doshi.vercel.app/)
 -->
-- 📝 [Blogs](https://medium.com/@varun-doshi) and [Gists](https://gist.github.com/varun-doshi)
+- 📝 [Blogs](https://medium.com/@varun-doshi) and [Technical Writeups](https://hackmd.io/@varundoshi)
 <!--
 - 💬 I like to talk about **Blockchain, Development, Rust, Cryptography**
 -->
