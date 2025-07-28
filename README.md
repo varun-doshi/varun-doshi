@@ -9,22 +9,24 @@
 
 <p align="left"> <a href="https://twitter.com/varunx10" target="blank"><img src="https://img.shields.io/twitter/follow/varunx10?logo=twitter&style=for-the-badge" alt="varunx10" /></a> </p>
 -->
-- 💻 **Core Protocol Development** + **Applied Cryptography**.
+-  I like to challenge the borrow checker and occasionally overflow fields.
 
+-  **Core Protocol Development** + **Applied Cryptography**. 💻
 <!---
 - 👨‍💻 My portfolio is available at [varundoshi.live](https://varun-doshi.vercel.app/)
 -->
-- 📝 [Blogs](https://medium.com/@varun-doshi) and [Technical Writeups](https://hackmd.io/@varundoshi)
+-  [Blogs](https://medium.com/@varun-doshi) and [Technical Writeups](https://hackmd.io/@varundoshi) 📝
 <!--
 - 💬 I like to talk about **Blockchain, Development, Rust, Cryptography**
 -->
-- 📫 Reach me at [inbox](mailto:doshivarun202@gmail.com)
+-  Reach me at [inbox](mailto:doshivarun202@gmail.com) 📫
 
 <h3>Published Packages</h3>
 
+- [gas-lookup](https://crates.io/crates/gas-lookup) (>10K installs)
+
 - [rs-merkletree](https://crates.io/crates/rs-merkletree/0.1.0)
 
-- [gas-lookup](https://crates.io/crates/gas-lookup)
 
 <h3 align="left">I work with:</h3>
 
