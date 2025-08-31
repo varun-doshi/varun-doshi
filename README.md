@@ -28,6 +28,7 @@
 - **[rs-merkletree](https://crates.io/crates/rs-merkletree/0.1.0)** - A Rust Library to generate Merkle Trees.
 
 
+<!---
 <h3 align="left">I work with:</h3>
 
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" alt="rust" width="40" height="40"/> </a>
@@ -45,7 +46,6 @@
 
 
 
-<!---
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
