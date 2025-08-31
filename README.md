@@ -23,9 +23,9 @@
 
 <h3>Published Packages</h3>
 
-- [gas-lookup](https://crates.io/crates/gas-lookup) (>10K installs)
+- **[gas-lookup](https://crates.io/crates/gas-lookup)** - A CLI tool to calculate total gas spent by an address within a given time frame. (>10K installs)
 
-- [rs-merkletree](https://crates.io/crates/rs-merkletree/0.1.0)
+- **[rs-merkletree](https://crates.io/crates/rs-merkletree/0.1.0)** - A Rust Library to generate Merkle Trees.
 
 
 <h3 align="left">I work with:</h3>
