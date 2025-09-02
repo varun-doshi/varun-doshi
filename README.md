@@ -19,7 +19,7 @@
 <!--
 - 💬 I like to talk about **Blockchain, Development, Rust, Cryptography**
 -->
--  Reach me at [inbox](mailto:doshivarun202@gmail.com) 📫
+-  Reach me at [email](mailto:doshivarun202@gmail.com) 📫
 
 <h3>Published Packages</h3>
 
